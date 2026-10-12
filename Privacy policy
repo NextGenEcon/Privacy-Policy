@@ -1,52 +1,107 @@
-Privacy Policy for LedgerPro
+Privacy Policy for LedgerPlus: Expat & Khata Book
 
-Effective Date: 5th September 2025
-Last Updated: 5th September 2025
+Effective Date: 12 October 2026
+Last Updated: 12 October 2026
 
-LedgerPro (“we,” “our,” or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how LedgerPro handles your information when you use our mobile and desktop application.
+1. Introduction
 
-1. Information We Collect
+LedgerPlus: Expat & Khata Book (“LedgerPlus,” “we,” “our,” or “us”) is a personal finance application developed by Yuvraj Singh. This Privacy Policy explains how the application accesses, stores, uses, and protects information when you use our mobile application.
 
-LedgerPro is designed as an offline-first personal finance application. All data you enter into the app (such as income, expenses, budgets, categories, and preferences) is stored locally on your device using a secure database.
+We are committed to protecting your privacy and providing transparency about our data practices.
 
-We do not collect, transmit, or process your financial or personal data on external servers.
+2. Information We Collect and Store
 
-We do not require account registration to use the app.
+LedgerPlus is designed to help users manage personal finances, income, expenses, budgets, and related financial records.
 
-2. How Your Information Is Used
+Depending on the features you use, information entered into the application may include:
 
-Your information is used solely to provide the app’s core functionality, including:
+Financial transactions, including income and expenses.
+Budget information and transaction categories.
+Currency preferences and application settings.
+Other information you choose to enter into the application.
 
-Tracking transactions, budgets, and categories.
+Local storage: If the application stores this information exclusively on your device, the information remains in the application's local storage and is not transmitted to our servers.
 
-Displaying analytics and charts.
+No account required: LedgerPlus does not require you to create an account to use its core features, provided that no optional account-based functionality is enabled.
 
-Saving your preferences (such as currency selection and theme).
+We do not intentionally collect or transmit your personal financial information to our own servers. Any third-party services or software development kits integrated into the application will be disclosed and handled according to their actual data practices.
 
-LedgerPro does not use your data for advertising, marketing, or analytics purposes.
+3. How We Use Information
 
-3. Data Sharing and Disclosure
+Information stored within LedgerPlus is used to provide the application's features, including:
 
-We do not share, sell, or disclose your data to third parties.
-Your data remains private and under your control at all times.
+Recording and managing income and expenses.
+Organizing financial transactions and categories.
+Creating and managing budgets.
+Displaying financial summaries, reports, analytics, and charts.
+Saving application preferences, such as currency and theme settings.
 
-If you choose to manually back up or share your data, that process is managed by you and outside the scope of this Privacy Policy.
+We do not use locally stored financial records for advertising, marketing, or profiling.
 
-4. Security of Data
+4. Data Sharing and Disclosure
 
-LedgerPro stores data locally on your device using secure storage practices. While we take reasonable steps to safeguard your information, the security of your data also depends on the security of your device.
+We do not sell users' personal financial information.
 
-5. Children’s Privacy
+If financial information is stored exclusively on your device and no external transmission occurs, we do not share that information with our servers or third parties.
 
-LedgerPro is not directed to children under the age of 13. We do not knowingly collect or store information from children.
+If you choose to export, back up, or share information using your device's available features, you control that action. The handling of information by the selected third-party service is governed by that service's own privacy policy.
 
-6. Changes to This Policy
+Any additional third-party services integrated into LedgerPlus, if applicable, may process information as described in their respective disclosures.
 
-We may update this Privacy Policy from time to time. Any updates will be reflected in the “Last Updated” date above. Continued use of the app after changes means you accept the updated policy.
+5. Data Storage, Security, and Retention
 
-7. Contact Us
+Information stored locally by LedgerPlus is retained on your device for as long as it remains in the application's storage or until you delete it.
 
-If you have any questions or concerns about this Privacy Policy or how your information is handled, please contact us:
+We take reasonable measures within the application's design to protect locally stored information. However, no method of electronic storage can be guaranteed to be completely secure.
+
+You are responsible for maintaining the security of your device, including its screen lock and operating system updates.
+
+If you uninstall the application or clear its storage, locally stored information may be permanently deleted. Exported files, backups, or copies saved elsewhere may remain until you delete them separately.
+
+6. Data Deletion and User Control
+
+You can manage the financial information you enter into LedgerPlus through the application's available features.
+
+Where supported, deleting individual records removes them from the application's local storage. Clearing application data or uninstalling the application may also remove locally stored records.
+
+Before clearing application data or uninstalling the application, consider exporting or backing up any records you wish to retain.
+
+If future versions introduce accounts, cloud synchronization, or server-side storage, the applicable deletion procedures will be provided and this policy will be updated accordingly.
+
+7. Third-Party Services
+
+LedgerPlus may depend on third-party services or software libraries to support certain functionality. Such services may have their own privacy policies and data-handling practices.
+
+Where third-party services collect or process user or device information, the relevant information, purposes, and recipients must be disclosed in this policy and in applicable Google Play disclosures.
+
+Please refer to the privacy policies of relevant third-party providers for further details about their practices.
+
+8. Children's Privacy
+
+LedgerPlus is a general-purpose personal finance application and is not specifically directed at children under the age of 13.
+
+We do not knowingly collect personal information from children under 13. If you believe that personal information has been collected from a child in a manner inconsistent with this policy, please contact us so that we can investigate and take appropriate action.
+
+9. Your Privacy Choices
+
+You can choose what financial information to enter into LedgerPlus and can use the application's available features to manage or remove your records.
+
+You may also choose whether to export or share information through other applications or services on your device.
+
+10. Changes to This Privacy Policy
+
+We may update this Privacy Policy when the application, its features, or applicable legal and platform requirements change.
+
+Any revised policy will display an updated “Last Updated” date. Material changes will be communicated through appropriate means where required.
+
+Your continued use of the application after an updated policy becomes effective is subject to the applicable policy and legal requirements.
+
+11. Contact Information
+
+If you have questions, concerns, or requests relating to this Privacy Policy or your information, please contact:
 
 Developer: Yuvraj Singh
+Application: LedgerPlus: Expat & Khata Book
 Email: risingeconomist1@gmail.com
+
+We will review privacy-related inquiries and respond as appropriate.
